@@ -15,7 +15,7 @@ public class Codigo {
 		names.add("JORGE XXX");
 		names.add("JORGE XXX");
 		names.add("JORGE IV");
-		names.add("JORGE VII");
+		names.add("MALOE VII");
 		names.add("JORGE XXX");
 		names.add("JORGE L");
 		
